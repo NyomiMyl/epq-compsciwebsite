@@ -64,7 +64,7 @@ margin-top: 1em;
 font-weight: 600;
 }
 
-form {
+.form {
 background-color: lightgreen;
 color: green;
 font-family: Verdana;
@@ -99,3 +99,4 @@ font-variant-ligatures: none;
 margin-top: 1em;
 font-weight: 600;
 }
+
