@@ -1,0 +1,65 @@
+.button {
+background-color: lightgreen;
+color: green;
+font-family: Verdana;
+line-height: 2.0;
+letter-spacing: 0.35ch;
+word-spacing: 1.225ch;
+font-variant-ligatures: none;
+margin-top: 1em;
+font-weight: 600;
+}
+
+.textbox {
+color: lightgreen;
+border-style: solid;
+border-color: lightgreen;
+border-width: 1px;
+min-height: 32px;
+font-family: Verdana;
+line-height: 2.0;
+letter-spacing: 0.35ch;
+word-spacing: 1.225ch;
+font-variant-ligatures: none;
+margin-top: 3.5em;
+font-weight: 600;
+}
+
+.yd-editable {
+color: lightgreen;
+border-style: solid;
+border-color: lightgreen;
+border-width: 1px;
+min-height: 32px;
+font-family: Verdana;
+line-height: 2.0;
+letter-spacing: 0.35ch;
+word-spacing: 1.225ch;
+font-variant-ligatures: none;
+margin-top: 1em;
+font-weight: 600;
+}
+
+.div span {
+color: lightgreen;
+font-family: Verdana;
+line-height: 2.0;
+letter-spacing: 0.35ch;
+word-spacing: 1.225ch;
+font-variant-ligatures: none;
+margin-top: 3.5em;
+font-weight: 600;
+}
+
+body {
+background-color: black;
+color: lightgreen;
+opacity: 0.99;
+font-family: Verdana;
+line-height: 2.0;
+letter-spacing: 0.35ch;
+word-spacing: 1.225ch;
+font-variant-ligatures: none;
+margin-top: 1em;
+font-weight: 600;
+}
