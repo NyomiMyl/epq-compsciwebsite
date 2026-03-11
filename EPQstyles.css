@@ -100,3 +100,14 @@ margin-top: 1em;
 font-weight: 600;
 }
 
+a {
+background-color: lightgreen;
+color: green;
+font-family: Verdana;
+line-height: 2.0;
+letter-spacing: 0.35ch;
+word-spacing: 1.225ch;
+font-variant-ligatures: none;
+margin-top: 1em;
+font-weight: 600;
+}
