@@ -131,6 +131,7 @@ text-decoration: none;
 display: inline-block;
 padding: 5px 10px;
 cursor: pointer;
-border-radius: 5px;
+border-radius: 2px;
 border: none;
 }
+
