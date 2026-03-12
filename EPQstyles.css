@@ -126,9 +126,8 @@ letter-spacing: 0.35ch;
 word-spacing: 1.225ch;
 font-variant-ligatures: none;
 margin-top: 1em;
-font-weight: 500;
+font-weight: 600;
 text-decoration: none;
-display: inline-block;
 padding: 5px 10px;
 cursor: pointer;
 }
