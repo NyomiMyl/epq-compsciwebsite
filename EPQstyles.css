@@ -1,7 +1,7 @@
 .button {
 background-color: lightgreen;
 color: green;
-font-family: Lexend, verdana, arial, sans-serif;
+font-family: Verdana, arial, sans-serif;
 line-height: 2.0;
 letter-spacing: 0.35ch;
 word-spacing: 1.225ch;
@@ -18,7 +18,7 @@ border-style: solid;
 border-color: lightgreen;
 border-width: 1px;
 min-height: 32px;
-font-family: Lexend, verdana, arial, sans-serif;
+font-family: Verdana, arial, sans-serif;
 line-height: 2.0;
 letter-spacing: 0.35ch;
 word-spacing: 1.225ch;
@@ -33,7 +33,7 @@ border-style: solid;
 border-color: lightgreen;
 border-width: 1px;
 min-height: 32px;
-font-family: Lexend, verdana, arial, sans-serif;
+font-family: Verdana, arial, sans-serif;
 line-height: 2.0;
 letter-spacing: 0.35ch;
 word-spacing: 1.225ch;
@@ -44,7 +44,7 @@ font-weight: 600;
 
 .div span {
 color: lightgreen;
-font-family: Lexend, verdana, arial, sans-serif;
+font-family: Verdana, arial, sans-serif;
 line-height: 2.0;
 letter-spacing: 0.35ch;
 word-spacing: 1.225ch;
@@ -57,22 +57,19 @@ body {
 background-color: black;
 color: lightgreen;
 opacity: 0.99;
+font-family: Verdana, arial, sans-serif;
 line-height: 2.0;
 letter-spacing: 0.35ch;
 word-spacing: 1.225ch;
 font-variant-ligatures: none;
 margin-top: 1em;
-font-family: 'Lexend';
-font-style: normal;
-font-weight: 400;
-src: url(https://fonts.gstatic.com/s/lexend/v26/wlptgwvFAVdoq2_F94zlCfv0bz1WCzsWzLdneg.woff2) format('woff2');
-unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+font-weight: 600;
 }
 
 .form {
 background-color: lightgreen;
 color: green;
-font-family: Lexend, verdana, arial, sans-serif;
+font-family: Verdana, arial, sans-serif;
 line-height: 2.0;
 letter-spacing: 0.35ch;
 word-spacing: 1.225ch;
@@ -84,7 +81,7 @@ font-weight: 600;
 .input {
 background-color: lightgreen;
 color: green;
-font-family: Lexend, verdana, arial, sans-serif;
+font-family: Verdana, arial, sans-serif;
 line-height: 2.0;
 letter-spacing: 0.35ch;
 word-spacing: 1.225ch;
@@ -96,7 +93,7 @@ font-weight: 600;
 input {
 background-color: lightgreen;
 color: green;
-font-family: Lexend, verdana, arial, sans-serif;
+font-family: Verdana, arial, sans-serif;
 line-height: 2.0;
 letter-spacing: 0.35ch;
 word-spacing: 1.225ch;
@@ -108,7 +105,7 @@ font-weight: 600;
 a {
 background-color: lightgreen;
 color: green;
-font-family: Lexend, verdana, arial, sans-serif;
+font-family: Verdana, arial, sans-serif;
 line-height: 2.0;
 letter-spacing: 0.35ch;
 word-spacing: 1.225ch;
@@ -122,7 +119,7 @@ appearance: button;
 .toLessons {
 background-color: lightgreen;
 color: green;
-font-family: Lexend, verdana, arial, sans-serif;
+font-family: Verdana, arial, sans-serif;
 line-height: 2.0;
 letter-spacing: 0.35ch;
 word-spacing: 1.225ch;
