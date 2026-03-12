@@ -9,6 +9,7 @@ font-variant-ligatures: none;
 margin-top: 1em;
 font-weight: 600;
 text-decoration: none;
+cursor: pointer;
 }
 
 .textbox {
@@ -112,8 +113,7 @@ font-variant-ligatures: none;
 margin-top: 1em;
 font-weight: 600;
 text-decoration: none;
-cursor: pointer;
-
+appearance: button;
 }
 
 .toLessons {
@@ -130,5 +130,3 @@ text-decoration: none;
 cursor: pointer;
 
 }
-
-
