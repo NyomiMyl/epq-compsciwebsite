@@ -10,6 +10,7 @@ margin-top: 1em;
 font-weight: 600;
 text-decoration: none;
 cursor: pointer;
+text-align: center
 }
 
 .textbox {
@@ -129,3 +130,4 @@ font-weight: 600;
 text-decoration: none;
 cursor: pointer;
 }
+
