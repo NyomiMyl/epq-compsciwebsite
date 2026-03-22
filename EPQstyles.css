@@ -10,7 +10,6 @@ margin-top: 1em;
 font-weight: 600;
 text-decoration: none;
 cursor: pointer;
-text-align: center;
 }
 
 .textbox {
@@ -131,4 +130,49 @@ text-decoration: none;
 cursor: pointer;
 }
 
+.dropbtn {
+background-color: lightgreen;
+color: green;
+font-family: Verdana, arial, sans-serif;
+line-height: 2.0;
+letter-spacing: 0.35ch;
+word-spacing: 1.225ch;
+font-variant-ligatures: none;
+margin-top: 1em;
+font-weight: 600;
+text-decoration: none;
+cursor: pointer;
+padding: 16px;
+}
 
+.dropbtn:hover, .dropbtn:focus {
+background-color: #23916C;
+}
+
+.dropdown {
+position: relative;
+display: inline-block;
+}
+
+.dropdown-content {
+display: none;
+position: absolute;
+background-color: #f1f1f1;
+min-width: 160px
+box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+z-index: 1;
+}
+
+.dropdown-content a {
+color: lightgreen;
+padding: 12px 16px
+display: block;
+}
+
+.dropdown-content a:hover {
+background-color: #ddd;
+}
+
+.show {
+display: block;
+}
