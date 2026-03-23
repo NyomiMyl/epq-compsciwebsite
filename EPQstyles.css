@@ -176,3 +176,27 @@ background-color: #ddd;
 .show {
 display: block;
 }
+
+h1 {
+background-color: black;
+color: lightgreen;
+opacity: 0.99;
+font-family: Verdana, arial, sans-serif;
+letter-spacing: 0.35ch;
+word-spacing: 1.225ch;
+font-variant-ligatures: none;
+margin-top: 1em;
+font-weight: 600;
+}
+
+h2 {
+background-color: black;
+color: lightgreen;
+opacity: 0.99;
+font-family: Verdana, arial, sans-serif;
+letter-spacing: 0.35ch;
+word-spacing: 1.225ch;
+font-variant-ligatures: none;
+margin-top: 1em;
+font-weight: 600;
+}
